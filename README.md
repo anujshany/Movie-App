@@ -12,3 +12,7 @@ You will also see any lint errors in the console.
 
 ## Preview
 Check It Out  **<a href="https://anujshany.github.io/Movie-App/">Here<a/>**
+
+## This is not the final build 
+This is not the final build more functionality will be added into the code
+This deployment is just for UI/UX
